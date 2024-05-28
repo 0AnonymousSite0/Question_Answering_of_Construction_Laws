@@ -29,6 +29,7 @@ More information can be found through (https://github.com/0AnonymousSite0/Questi
 
 The documents included in the CLKR are determined based on judegments from construction-related cases. If in Chinese, the use of guillemets can be selected as the identifier for documents during the mining process.
 
+![image](https://github.com/0AnonymousSite0/Question_Answering_of_Construction_Laws/assets/39326629/40e9c8bf-f108-4e1c-8395-7004af727c6e)
 ↑↑↑Code for document name entity identification in written judgements
 
 # 4 Reuse of CLQA validation set
