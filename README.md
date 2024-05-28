@@ -26,7 +26,7 @@ The complete demonstration video is available at: Video of a prototype showing t
 1.4 All of the codes have been tested to be well-performed. Even so, we are not able to guarantee their operation in other computing environments due to the differences in the Python version, computer operating system, and adopted hardware.
 
 # 2. Summary of supplemental materials
-![屏幕截图 2024-05-28 182514](https://github.com/0AnonymousSite0/Question_Answering_of_Construction_Laws/assets/39326629/6317a294-83d1-4de1-87d8-02da4e146dc9)
+![image](https://github.com/0AnonymousSite0/Question_Answering_of_Construction_Laws/assets/39326629/fd874270-91fc-406a-9cb5-05246b3ce6aa)
 
 
 # 3. Reuse of CLKR 
