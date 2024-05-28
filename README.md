@@ -3,7 +3,7 @@
 ## !!! As the paper is under review, all contents in this repository currently are not allowed to be re-used by anyone until this announcement is deleted.
 
 # 0. Summary of supplemental materials
- 
+![屏幕截图 2024-05-28 182514](https://github.com/0AnonymousSite0/Question_Answering_of_Construction_Laws/assets/39326629/6317a294-83d1-4de1-87d8-02da4e146dc9)
 # 1. general introduction
 1.1 This repository aims to provide the codes and data regarding the paper entitled “……” developed by University of XXX in UK, The University of XXX in Hong Kong SAR, and XXX University in China for the public.
 1.2 We greatly appreciate the selfless spirits of these voluntary contributors for a series of open Python libraries, including langchain (https://github.com/langchain-ai/langchain), pythonProject. https://github.com/Domengo/pythonProject/blob/master/llm-chat/langchain_gemini_qa.py, Llama (https://github.com/meta-llama/llama), ChatGLM2-6b (https://github.com/THUDM/ChatGLM2-6B), and so on.
