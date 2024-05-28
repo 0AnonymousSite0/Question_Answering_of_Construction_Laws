@@ -26,9 +26,7 @@ The complete demonstration video is available at: Video of a prototype showing t
 1.4 All of the codes have been tested to be well-performed. Even so, we are not able to guarantee their operation in other computing environments due to the differences in the Python version, computer operating system, and adopted hardware.
 
 # 2. Inventory of supplemental materials
-![image](https://github.com/0AnonymousSite0/Question_Answering_of_Construction_Laws/assets/39326629/fd874270-91fc-406a-9cb5-05246b3ce6aa)
-
-
+![image](https://github.com/0AnonymousSite0/Question_Answering_of_Construction_Laws/assets/39326629/fdee67ec-e326-49e3-8a98-1c2ffe54445f)
 # 3. Reuse of CLKR 
 The Construction Law Knowledge Repository (CLKR) follows a four-tier structure as construction law knowledge (CLK)-8 CLK areas-164 CLK subareas-387 CL documents. This repository consists of 387 documents and their relationships with 164 CLK subareas. 
 
