@@ -17,12 +17,12 @@ The code for deploying LLMs for CLQA in WebUI is available in this repository
 
 Please download the corresponding embedding model (bge-large-zh https://huggingface.co/BAAI/bge-large-zh-v1.5) and LLMs (ChatGLM2-6bhttps://huggingface.co/THUDM/chatglm2-6b) and put them into the folder: Codes for deploying the GPLLMs for CLQA in WebUI 
 ![绘图1](https://github.com/0AnonymousSite0/Question_Answering_of_Construction_Laws/assets/39326629/d8bb2987-73ad-4731-9e13-bd469f8a741b)
-⬇⬇⬇ CLQA deployed in the WeiUI
+↓↓↓ CLQA deployed in the WeiUI
 ![A20showing20CLQA20updating20CLKR20depolyed%20prototype_converted](https://github.com/0AnonymousSite0/Question_Answering_of_Construction_Laws/assets/39326629/71bd62b0-0531-41f1-938f-fb228b33c143)
+↓↓↓ Updating the CLKR
+![A20showing20CLQA20updating20CLKR20depolyed%20prototype_converted1](https://github.com/0AnonymousSite0/Question_Answering_of_Construction_Laws/assets/39326629/7bfe8b6f-d64a-4d25-8207-4a0baefd0c06)
 
-the CLKR update
-
-
+The complete demonstration video is available at
 # 3 Reuse of CLKR 
 The Construction Law Knowledge Repository (CLKR) follows a four-tier structure as construction law knowledge (CLK)-8 CLK areas-164 CLK subareas-387 CL documents. This repository consists of 387 documents and their relationships with 164 CLK subareas. 
 
