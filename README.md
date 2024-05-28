@@ -34,8 +34,7 @@ The documents included in the CLKR are determined based on judegments from const
 # 4 Reuse of CLQA validation set
 The CLQA validation dataset consists of 2140 multiple-choice questions sourced from 24 test papers from the Professional Construction Engineer Qualification Examination (PCEQE) conducted between 2014 and 2023, and each question is manually labeled with paper, question type, and specific CLK area tags. 
 
-
-For a more detailed version please refer to() 
+For a more detailed version please refer to(https://github.com/0AnonymousSite0/Question_Answering_of_Construction_Laws/blob/main/Table%20S3%20Validation%20set%20for%20CLQA%20based%20on%2024%20test%20papers%20of%20PCQEQ.xlsx) 
 
 # 5 Reuse of the codes for CLQA based on GPLLMs with and without CKLR
 5.1 Environment set
