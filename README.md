@@ -61,7 +61,7 @@ Please refer to the supplementary materials for the complete requirement file.
 5.2 Codes for testing the GLMs
 Closed-source GPLLMs (e.g., text-davinci-003, GPT-3.5 turbo, and GPT-4) are API-only, while open-source GLMs over 24GB also use APIs to avoid high-end GPU costs.
 
-![image](https://github.com/0AnonymousSite0/Question_Answering_of_Construction_Laws/assets/39326629/d6268de0-3b2c-4d1f-9237-a93ae3a93c3f)
+![image](https://github.com/0AnonymousSite0/Question_Answering_of_Construction_Laws/assets/39326629/d41b5de6-82a5-49c9-876f-fb62b2533b90)
 
 ↑↑↑Codes for CLQA based on original GPLLMs
 
