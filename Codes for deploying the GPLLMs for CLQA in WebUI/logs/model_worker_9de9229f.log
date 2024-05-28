@@ -1,0 +1,14 @@
+2024-05-15 18:42:51 | INFO | model_worker | Loading the model ['chatglm2-6b'] on worker 9de9229f ...
+2024-05-15 18:42:53 | ERROR | stderr | Loading checkpoint shards:   0%|                                                                 | 0/7 [00:00<?, ?it/s]
+2024-05-15 18:42:53 | ERROR | stderr | D:\Program_files\anaconda\envs\chatchat1\lib\site-packages\torch\_utils.py:776: UserWarning: TypedStorage is deprecated. It will be removed in the future and UntypedStorage will be the only storage class. This should only matter to you if you are using storages directly.  To access UntypedStorage directly, use tensor.untyped_storage() instead of tensor.storage()
+2024-05-15 18:42:53 | ERROR | stderr |   return self.fget.__get__(instance, owner)()
+2024-05-15 18:42:54 | ERROR | stderr | Loading checkpoint shards:  14%|████████▏                                                | 1/7 [00:01<00:06,  1.16s/it]
+2024-05-15 18:42:55 | ERROR | stderr | Loading checkpoint shards:  29%|████████████████▎                                        | 2/7 [00:02<00:05,  1.18s/it]
+2024-05-15 18:42:57 | ERROR | stderr | Loading checkpoint shards:  43%|████████████████████████▍                                | 3/7 [00:03<00:04,  1.21s/it]
+2024-05-15 18:42:58 | ERROR | stderr | Loading checkpoint shards:  57%|████████████████████████████████▌                        | 4/7 [00:05<00:03,  1.33s/it]
+2024-05-15 18:43:00 | ERROR | stderr | Loading checkpoint shards:  71%|████████████████████████████████████████▋                | 5/7 [00:07<00:03,  1.54s/it]
+2024-05-15 18:43:01 | ERROR | stderr | Loading checkpoint shards:  86%|████████████████████████████████████████████████▊        | 6/7 [00:08<00:01,  1.52s/it]
+2024-05-15 18:43:02 | ERROR | stderr | Loading checkpoint shards: 100%|█████████████████████████████████████████████████████████| 7/7 [00:09<00:00,  1.27s/it]
+2024-05-15 18:43:02 | ERROR | stderr | Loading checkpoint shards: 100%|█████████████████████████████████████████████████████████| 7/7 [00:09<00:00,  1.32s/it]
+2024-05-15 18:43:02 | ERROR | stderr | 
+2024-05-15 18:43:05 | INFO | model_worker | Register to controller
