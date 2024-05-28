@@ -10,10 +10,10 @@
 1.2 We greatly appreciate the selfless spirits of these voluntary contributors for a series of open Python libraries, including langchain (https://github.com/langchain-ai/langchain), pythonProject. https://github.com/Domengo/pythonProject/blob/master/llm-chat/langchain_gemini_qa.py, Llama (https://github.com/meta-llama/llama), ChatGLM2-6b (https://github.com/THUDM/ChatGLM2-6B), and so on.
 1.3 As for anything regarding the copyright, please refer to the MIT License or contact the authors.
 1.4 All of the codes have been tested to be well-performed. Even so, we are not able to guarantee their operation in other computing environments due to the differences in the Python version, computer operating system, and adopted hardware.
-# 2 A prototype for the CLQA and
+# 2 A prototype for the CLQA and CLKR update
 
 The code for deploying LLMs for CLQA in WebUI is available in this repository
-
+![image](https://github.com/0AnonymousSite0/Question_Answering_of_Construction_Laws/assets/39326629/2e386b54-042d-4715-b477-92cb10e10ab8)
 
 Please download the corresponding embedding model (bge-large-zh https://huggingface.co/BAAI/bge-large-zh-v1.5) and LLMs (ChatGLM2-6bhttps://huggingface.co/THUDM/chatglm2-6b) and put them into the folder: Codes for deploying the GPLLMs for CLQA in WebUI 
 ![绘图1](https://github.com/0AnonymousSite0/Question_Answering_of_Construction_Laws/assets/39326629/d8bb2987-73ad-4731-9e13-bd469f8a741b)
