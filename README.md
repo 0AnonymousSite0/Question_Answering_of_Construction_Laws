@@ -4,6 +4,7 @@
 
 # 0. Summary of supplemental materials
 ![屏幕截图 2024-05-28 182514](https://github.com/0AnonymousSite0/Question_Answering_of_Construction_Laws/assets/39326629/6317a294-83d1-4de1-87d8-02da4e146dc9)
+
 # 1. general introduction
 1.1 This repository aims to provide the codes and data regarding the paper entitled “……” developed by University of XXX in UK, The University of XXX in Hong Kong SAR, and XXX University in China for the public.
 1.2 We greatly appreciate the selfless spirits of these voluntary contributors for a series of open Python libraries, including langchain (https://github.com/langchain-ai/langchain), pythonProject. https://github.com/Domengo/pythonProject/blob/master/llm-chat/langchain_gemini_qa.py, Llama (https://github.com/meta-llama/llama), ChatGLM2-6b (https://github.com/THUDM/ChatGLM2-6B), and so on.
@@ -60,8 +61,12 @@ Please refer to the supplementary materials for the complete requirement file.
 
 5.2 Codes for testing the GLMs
 Closed-source GPLLMs (e.g., text-davinci-003, GPT-3.5 turbo, and GPT-4) are API-only, while open-source GLMs over 24GB also use APIs to avoid high-end GPU costs.
-![image](https://github.com/0AnonymousSite0/Question_Answering_of_Construction_Laws/assets/39326629/b9e08adc-0e17-451a-8731-1ec98f16018a)
+
+![image](https://github.com/0AnonymousSite0/Question_Answering_of_Construction_Laws/assets/39326629/d6268de0-3b2c-4d1f-9237-a93ae3a93c3f)
+
 ↑↑↑Codes for CLQA based on original GPLLMs
+
+![image](https://github.com/0AnonymousSite0/Question_Answering_of_Construction_Laws/assets/39326629/b9e08adc-0e17-451a-8731-1ec98f16018a)
 
 ↑↑↑Codes for CLQA based on CLKR-empowered GPLLMs
 
