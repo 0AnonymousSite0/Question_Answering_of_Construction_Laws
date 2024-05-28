@@ -25,7 +25,7 @@ the CLKR update
 The Construction Law Knowledge Repository (CLKR) follows a four-tier structure as construction law knowledge (CLK)-8 CLK areas-164 CLK subareas-387 CL documents. This repository consists of 387 documents and their relationships with 164 CLK subareas. 
 
 
-More information can be found through this link 
+More information can be found through (https://github.com/0AnonymousSite0/Question_Answering_of_Construction_Laws/blob/main/Table%20S2%20Construction%20law%20knowledge%20repository.xlsx)
 
 The documents included in the CLKR are determined based on judegments from construction-related cases. If in Chinese, the use of guillemets can be selected as the identifier for documents during the mining process.
 
