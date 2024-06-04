@@ -11,7 +11,7 @@ Please download the corresponding embedding model (e.g., bge-large-zh (https://h
  CLQA deployed in the WeiUI
 ![-o1jbn2wu95pree62](https://github.com/0AnonymousSite0/Question_Answering_of_Construction_Laws/assets/39326629/0de5bcf4-1880-429b-a406-299fc6f62204)
 ↓↓↓ Updating the CLKR
-
+![2](https://github.com/0AnonymousSite0/Question_Answering_of_Construction_Laws/assets/39326629/b3cd03fb-0d4c-4bfa-ae97-45805528a4a6)
 The complete demonstration video is available at: Video of a prototype showing the CLQA and CLKR update.mp4
 
 # 1. General introduction
