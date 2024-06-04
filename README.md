@@ -8,12 +8,8 @@ The code for deploying LLMs for CLQA in WebUI is available in this repository
 
 Please download the corresponding embedding model (e.g., bge-large-zh (https://huggingface.co/BAAI/bge-large-zh-v1.5)) and LLMs (e.g., ChatGLM2-6b (https://huggingface.co/THUDM/chatglm2-6b)) and put them into the folder: Codes for deploying the GPLLMs for CLQA in WebUI 
 ![绘图1](https://github.com/0AnonymousSite0/Question_Answering_of_Construction_Laws/assets/39326629/d8bb2987-73ad-4731-9e13-bd469f8a741b)
-↓↓↓ CLQA deployed in the WeiUI
-![A20showing20CLQA20updating20CLKR20depolyed%20prototype_converted](https://github.com/0AnonymousSite0/Question_Answering_of_Construction_Laws/assets/39326629/71bd62b0-0531-41f1-938f-fb228b33c143)
-
-↓↓↓ Updating the CLKR
-![A20showing20CLQA20updating20CLKR20depolyed%20prototype_converted1](https://github.com/0AnonymousSite0/Question_Answering_of_Construction_Laws/assets/39326629/7bfe8b6f-d64a-4d25-8207-4a0baefd0c06)
-
+↓↓↓ CLQA deployed in the WeiUI & Updating the CLKR
+![Video of prototype showing the CLQA and updating of CLKR](https://github.com/0AnonymousSite0/Question_Answering_of_Construction_Laws/assets/39326629/ee8c7b82-8cdd-4c8e-83fa-fbe6387a2d63)
 The complete demonstration video is available at: Video of a prototype showing the CLQA and CLKR update.mp4
 
 # 1. General introduction
