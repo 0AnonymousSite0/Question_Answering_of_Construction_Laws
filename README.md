@@ -27,7 +27,8 @@ The complete demonstration video is available at: Video of a prototype showing t
 1.4 All of the codes have been tested to be well-performed. Even so, we are not able to guarantee their operation in other computing environments due to the differences in the Python version, computer operating system, and adopted hardware.
 
 # 2. Inventory of supplemental materials
-![image](https://github.com/0AnonymousSite0/Question_Answering_of_Construction_Laws/assets/39326629/88e38349-2980-4cb7-9808-8c6079c6d42b)
+
+![image](https://github.com/user-attachments/assets/29dd3a1b-73a0-4528-8425-bcaf5ce1b8a9)
 # 3. Reuse of CLKR 
 The Construction Law Knowledge Repository (CLKR) follows a four-tier structure as construction law knowledge (CLK)-8 CLK areas-164 CLK subareas-387 CL documents. This repository consists of 387 documents and their relationships with 164 CLK subareas. 
 
@@ -75,4 +76,6 @@ Closed-source GPLLMs (e.g., text-davinci-003, GPT-3.5 turbo, and GPT-4) are API-
 
 ↑↑↑Codes for CLQA based on CLKR-empowered GPLLMs
 
+![image](https://github.com/user-attachments/assets/f7ddb796-ca77-4ade-8903-1c3dbbd171af)
 
+↑↑↑Codes for open-ended CLQA based on original and CLKR-empowered GPLLMs
