@@ -28,7 +28,7 @@ The complete demonstration video is available at: Video of a prototype showing t
 
 # 2. Inventory of supplemental materials
 
-![image](https://github.com/user-attachments/assets/29dd3a1b-73a0-4528-8425-bcaf5ce1b8a9)
+![image](https://github.com/user-attachments/assets/dd0b2308-5514-4d6f-9e96-de85aaa338c2)
 # 3. Reuse of CLKR 
 The Construction Law Knowledge Repository (CLKR) follows a four-tier structure as construction law knowledge (CLK)-8 CLK areas-164 CLK subareas-387 CL documents. This repository consists of 387 documents and their relationships with 164 CLK subareas. 
 
